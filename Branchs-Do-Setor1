@@ -1,0 +1,2 @@
+Site = int (input("Digite o Usuario"))
+Site = int (input("Digite o Senha"))
