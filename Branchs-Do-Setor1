@@ -1,2 +1,11 @@
 Site = int (input("Digite o Usuario"))
 Site = int (input("Digite o Senha"))
+usuario_correta="usuario123"
+senha_correta="senha123"
+if usuario_correta="usuario123"
+print:("acesso permitido")
+elif senha_correta="senha123"
+Print:("aceeso negado")
+else:
+Print:("acesso negado")
+
